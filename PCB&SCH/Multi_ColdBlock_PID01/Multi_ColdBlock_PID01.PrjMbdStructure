@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=Multi_ColdBlock_PID01.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\ColdBlock_PID_Main01\ColdBlock_PID_Main01.PrjPcb
+Record=SubProject|SourceDocument=Multi_ColdBlock_PID01.MbsDoc|ProjectPath=..\ColdBlock_PID_Main01\ColdBlock_PID_Main01.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Multi_ColdBlock_PID01.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\ColdBlock_PID_LCD00\ColdBlock_PID_LCD00.PrjPcb
+Record=SubProject|SourceDocument=Multi_ColdBlock_PID01.MbsDoc|ProjectPath=..\ColdBlock_PID_LCD00\ColdBlock_PID_LCD00.PrjPcb
